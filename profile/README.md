@@ -1,6 +1,6 @@
 # The Jordan Lab Repository Catalog
 
-## 🧬 Research Projects
+## Research Projects
 
 ### Ybx1 Research Line
 - [**proj001-Ybx1_in_WAT**](https://github.com/the-jordan-lab/proj001-Ybx1_in_WAT) - YBX1 in white adipose tissue
@@ -27,7 +27,7 @@
 - [**proj013-Develop_alt_human_WAT_models**](https://github.com/the-jordan-lab/proj013-Develop_alt_human_WAT_models) - Alternative human WAT models
 - [**proj014-Agentic_analysis_of_gene_expression**](https://github.com/the-jordan-lab/proj014-Agentic_analysis_of_gene_expression) - AI-driven gene expression analysis
 
-## 📚 Lab Resources
+## Lab Resources
 
 ### Documentation & Protocols
 - [**protocols**](https://github.com/the-jordan-lab/protocols) - Standard operating procedures
@@ -47,7 +47,7 @@
 ### Presentations
 - [**presentations**](https://github.com/the-jordan-lab/presentations) - Talks and posters
 
-## 🧮 Analysis Examples
+## Analysis Examples
 - [**ca018-orflo-analysis**](https://github.com/the-jordan-lab/ca018-orflo-analysis) - ORO fluorescence analysis
 - [**rtqpcr-ddct-analysis-template**](https://github.com/the-jordan-lab/rtqpcr-ddct-analysis-template) - RT-qPCR analysis template
 - [**ybx1-conservation-analysis**](https://github.com/the-jordan-lab/ybx1-conservation-analysis) - YBX1 evolutionary analysis
