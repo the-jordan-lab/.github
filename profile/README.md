@@ -41,13 +41,13 @@
 
 ### Lab Management
 - [**onboarding**](https://github.com/the-jordan-lab/onboarding) - New member resources
-- [**registries**](https://github.com/the-jordan-lab/registries) - Equipment and reagent tracking
-- [**environmental_health_and_safety**](https://github.com/the-jordan-lab/environmental_health_and_safety) - EHS documentation
+- [**registries**](https://github.com/the-jordan-lab/registries) - Equipment, reagent, and sample tracking
+- [**environmental_health_and_safety**](https://github.com/the-jordan-lab/environmental_health_and_safety) - EHS documentation incl. MSDS docs
 
 ### Presentations
 - [**presentations**](https://github.com/the-jordan-lab/presentations) - Talks and posters
 
-## 🧮 Analysis Tools
+## 🧮 Analysis Examples
 - [**ca018-orflo-analysis**](https://github.com/the-jordan-lab/ca018-orflo-analysis) - ORO fluorescence analysis
 - [**rtqpcr-ddct-analysis-template**](https://github.com/the-jordan-lab/rtqpcr-ddct-analysis-template) - RT-qPCR analysis template
 - [**ybx1-conservation-analysis**](https://github.com/the-jordan-lab/ybx1-conservation-analysis) - YBX1 evolutionary analysis
