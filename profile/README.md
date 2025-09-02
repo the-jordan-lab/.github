@@ -4,6 +4,5 @@ Welcome to The Jordan Lab's research repository collection. Our lab focuses on t
 ## Public
 - Public site (In production)
 - [Faculty site](https://www.bio.fsu.edu/faculty.php?faculty-id=jmj24b)
-- [Team](https://github.com/orgs/the-jordan-lab/people)
 - [PI](https://github.com/james-m-jordan)
 ---
