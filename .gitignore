@@ -1,0 +1,4 @@
+# Organization-wide ignores
+.DS_Store
+**/.DS_Store
+._*
